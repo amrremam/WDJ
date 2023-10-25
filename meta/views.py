@@ -9,5 +9,6 @@ def index(request):
 def signin(request):
     return render(request, 'dashboard/sign-in.html')
 
+# there is new line
 # def tables(request):
 #     return render(request, 'dashboard/tables.html')
